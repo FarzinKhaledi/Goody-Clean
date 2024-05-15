@@ -1,0 +1,54 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 11/05/2020 15:12
+*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("/fonts/Flaticon.eot");
+    src: url("/fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+        url("/fonts/Flaticon.woff2") format("woff2"),
+        url("/fonts/Flaticon.woff") format("woff"),
+        url("/fonts/Flaticon.ttf") format("truetype"),
+        url("/fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("/fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-satisfaction:before { content: "\f100"; }
+.flaticon-cleaning-spray:before { content: "\f101"; }
+.flaticon-cleaning:before { content: "\f102"; }
+.flaticon-support:before { content: "\f103"; }
+.flaticon-call:before { content: "\f104"; }
+.flaticon-telephone:before { content: "\f105"; }
+.flaticon-checked:before { content: "\f106"; }
+.flaticon-couch:before { content: "\f107"; }
+.flaticon-windows:before { content: "\f108"; }
+.flaticon-mop:before { content: "\f109"; }
+.flaticon-house:before { content: "\f10a"; }
+.flaticon-factory:before { content: "\f10b"; }
+.flaticon-hospital:before { content: "\f10c"; }
+.flaticon-toilet:before { content: "\f10d"; }
+.flaticon-checked-1:before { content: "\f10e"; }
+.flaticon-tick:before { content: "\f10f"; }
+.flaticon-household:before { content: "\f110"; }
+.flaticon-broom:before { content: "\f111"; }
+.flaticon-premium-quality:before { content: "\f112"; }
+.flaticon-hand-wash-1:before { content: "\f113"; }
+.flaticon-work:before { content: "\f114"; }
+.flaticon-hotel:before { content: "\f115"; }
+.flaticon-left-quotes-sign:before { content: "\f116"; }
+.flaticon-right-quotes-symbol:before { content: "\f117"; }
